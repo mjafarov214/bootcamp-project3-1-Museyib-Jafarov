@@ -110,5 +110,5 @@ function dragDrop() {
 
 }
 
-dragDrop();
+
 newRow();
